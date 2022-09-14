@@ -1,0 +1,15 @@
+/Users/woathatsweerzy/Projects/09.14/09.14/bin/Debug/net6.0/09.14
+/Users/woathatsweerzy/Projects/09.14/09.14/bin/Debug/net6.0/09.14.deps.json
+/Users/woathatsweerzy/Projects/09.14/09.14/bin/Debug/net6.0/09.14.runtimeconfig.json
+/Users/woathatsweerzy/Projects/09.14/09.14/bin/Debug/net6.0/09.14.dll
+/Users/woathatsweerzy/Projects/09.14/09.14/bin/Debug/net6.0/09.14.pdb
+/Users/woathatsweerzy/Projects/09.14/09.14/obj/Debug/net6.0/09.14.csproj.AssemblyReference.cache
+/Users/woathatsweerzy/Projects/09.14/09.14/obj/Debug/net6.0/09.14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/woathatsweerzy/Projects/09.14/09.14/obj/Debug/net6.0/09.14.AssemblyInfoInputs.cache
+/Users/woathatsweerzy/Projects/09.14/09.14/obj/Debug/net6.0/09.14.AssemblyInfo.cs
+/Users/woathatsweerzy/Projects/09.14/09.14/obj/Debug/net6.0/09.14.csproj.CoreCompileInputs.cache
+/Users/woathatsweerzy/Projects/09.14/09.14/obj/Debug/net6.0/09.14.dll
+/Users/woathatsweerzy/Projects/09.14/09.14/obj/Debug/net6.0/refint/09.14.dll
+/Users/woathatsweerzy/Projects/09.14/09.14/obj/Debug/net6.0/09.14.pdb
+/Users/woathatsweerzy/Projects/09.14/09.14/obj/Debug/net6.0/09.14.genruntimeconfig.cache
+/Users/woathatsweerzy/Projects/09.14/09.14/obj/Debug/net6.0/ref/09.14.dll
